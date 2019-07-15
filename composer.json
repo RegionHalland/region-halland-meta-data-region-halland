@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-meta-data-region-halland",
+    "description": "Funktioner för att visa rätt metadata",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}

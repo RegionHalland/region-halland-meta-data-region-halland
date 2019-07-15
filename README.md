@@ -68,7 +68,7 @@ OBS! Default antal ord är 25, men detta kan man själv välja genom att ange en
 <meta name="description" content="{{ get_region_halland_meta_data_region_halland_description() }}" />
 ```
 
-eller
+eller om du vill hämta ut exempelvis 15 ord
 
 ```sh
 <meta name="description" content="{{ get_region_halland_meta_data_region_halland_description(15) }}" />

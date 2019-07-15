@@ -55,7 +55,7 @@ OBS! Justera så att du hämtar aktuell version.
 
 ```sh
 "require": {
-  "regionhalland/region-halland-acf-page-i-frame": "1.0.0"
+  "regionhalland/region-halland-meta-data-region-halland": "1.0.0"
 },
 ```
 

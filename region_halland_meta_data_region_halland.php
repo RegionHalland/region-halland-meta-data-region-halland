@@ -6,7 +6,7 @@
 	/*
 	Plugin Name: Region Halland Meta Data Region Halland
 	Description: Front-end-plugin som returnerar metadata om applikationen
-	Version: 1.0.0
+	Version: 1.1.0
 	Author: Roland Hydén
 	License: GPL-3.0
 	Text Domain: regionhalland

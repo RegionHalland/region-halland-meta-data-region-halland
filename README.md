@@ -12,10 +12,9 @@ Denna plugin innehåller två funktioner för att ta fram rätt metadata för si
 
 ## Licensmodell
 
-Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell på:
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell via den medföljande filen:
 ```sh
-A) Gnu.org (https://www.gnu.org/licenses/gpl-3.0.html)
-B) Wikipedia (https://sv.wikipedia.org/wiki/GNU_General_Public_License)
+LICENSE (https://github.com/RegionHalland/region-halland-meta-data-region-halland/blob/master/LICENSE)
 ```
 
 
@@ -82,6 +81,10 @@ eller om du vill hämta ut exempelvis 15 ord
 
 
 ## Versionhistorik
+
+### 1.1.0
+- Lagt till information om licensmodell
+- Bifogat fil med licensmodell
 
 ### 1.0.0
 - Första version
